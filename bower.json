@@ -1,0 +1,21 @@
+{
+  "name": "call-flow",
+  "description": "call flow replacement",
+  "main": "index.html",
+  "authors": [
+    "dfeuster"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eonasdan-bootstrap-datetimepicker": "^4.17.37"
+  }
+}
